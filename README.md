@@ -4,7 +4,7 @@
 - I also like to organize my knowledge with an easy to read & write form.
 
 ### I'm currently learning ...
-- *kotlin* with the help from 『kotlin in action』& [Jetbarin Kotlin youtube].(https://www.youtube.com/@Kotlin)
+- *kotlin* with the help from 『kotlin in action』& [Jetbarin Kotlin youtube](https://www.youtube.com/@Kotlin).
 - *spring boot* with the help from some lectures & my side-projects.
   
 ### My Archive
