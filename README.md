@@ -1,16 +1,22 @@
-### 안녕하세요! 👋
-*좋은 설계*와 *객체지향 방법론*에 관심이 많은 미래의 백엔드 개발자 남득윤입니다. 
+### Hi there 👋
+- I'm currently working on side project [`avalon-chat`](https://github.com/avalon-202n)
+- I like *cool architectures* with *sacalability* and *object oriented programmings* 
+- I also like organize my knowledge with an easy to read & write form.
 
-### 저는 요즘 ...
-- *코틀린 인 액션* 이라는 책을 읽고 있어요.
-- PS 를 열심히 하고 있어요. 1 차적인 목표는 Solved.ac P5 이고 그 다음에는 Class 5 문제를 다 풀어볼 예정입니다.
-- Realworld 프로젝트의 세번째 버전을 구상하고 있어요.
+### I'm currently learning ...
+- *kotlin* with the help from 『kotlin in action』& [Jetbarin Kotlin youtube](https://www.youtube.com/@Kotlin)
+- *spring boot* with the help from some lectures & my side-projects
   
-### 블로그
+### My Archive
 - [Haha-Blog](https://ndy2.github.io/Haha-Blog/)
-- 백엔드 서버 개발자로서 학습을 하며 기억하고 싶은 내용을 정리하는 공간입니다.
+- is my archive where I record my learning histories.
+- I hope my writing skill gets better. T.T
 
-### PS !
-- [ps 리포지토리](https://github/ndy2/coding-test)
+### Opensource Contribution
+- Spring cloud config - [PR ~ Logging](https://github.com/spring-cloud/spring-cloud-config/pull/2162)
+- Mkdocs - [Issue ~ Documentation ](https://github.com/squidfunk/mkdocs-material/issues/5086)
+
+### Problem Solving!
+- [ps respository](https://github/ndy2/coding-test)
 
 ![emrdbs123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=emrdbs123)
