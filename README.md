@@ -12,9 +12,10 @@
 - is my archive where I record my learning histories.
 - I hope my writing skill gets better. T.T
 
-### Open-source Contribution
+### Open-source
 - Spring cloud config - [PR ~ Logging](https://github.com/spring-cloud/spring-cloud-config/pull/2162)
 - MkDocs Material - [Issue ~ Documentation ](https://github.com/squidfunk/mkdocs-material/issues/5086)
+- mkdocs-obsidian-support-plugin - [My own open-source. Surprisingly used by 3 people! 💥](https://github.com/ndy2/mkdocs-obsidian-support-plugin)
 
 ### Problem-Solving
 - [ps respository](https://github/ndy2/coding-test)
