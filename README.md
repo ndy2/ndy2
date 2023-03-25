@@ -6,6 +6,8 @@
 ### I'm currently learning ...
 - *kotlin* with the help from 『kotlin in action』& [Jetbarin Kotlin youtube](https://www.youtube.com/@Kotlin).
 - *spring boot* with the help from some lectures & my side-projects.
+- *ktor* with third version of [project realworld](https://www.github.com/ndy2/realworld-ktor)
+  
   
 ### My Archive
 - [Haha-Blog](https://ndy2.github.io/Haha-Blog/)
