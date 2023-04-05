@@ -20,6 +20,6 @@
 - mkdocs-obsidian-support-plugin - [My own open-source. Surprisingly used by 3 people! 💥](https://github.com/ndy2/mkdocs-obsidian-support-plugin)
 
 ### Problem-Solving
-- [ps respository](https://github/ndy2/coding-test)
+- [ps respository](https://github.com/ndy2/coding-test)
 
 ![emrdbs123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=emrdbs123)
