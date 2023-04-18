@@ -21,7 +21,6 @@
 - MkDocs Material - [Issue ~ Documentation ](https://github.com/squidfunk/mkdocs-material/issues/5086)
 - mkdocs-obsidian-support-plugin - [My own open-source. Surprisingly used by 3 people! 💥](https://github.com/ndy2/mkdocs-obsidian-support-plugin)
 
-### Problem-Solving
-- [ps respository](https://github.com/ndy2/coding-test)
+### My GitHub Streak
 
-![emrdbs123's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=emrdbs123)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ndy2)](https://git.io/streak-stats)
