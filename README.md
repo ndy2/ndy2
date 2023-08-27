@@ -22,7 +22,7 @@
 ![helm](https://img.shields.io/badge/helm-_-_.svg?logo=helm)
 
 ### My Current interest in ...  
-- [Streamlit](https://streamlit.io/) - A simple dashboard framework that helps sharing python machine learning data
+- [Streamlit](https://streamlit.io/) - A dashboard library that helps sharing python machine learning data
 - [MinIO](https://min.io/) - A High Performance, S3 compatible Object Storage. 
 - [Sangria](https://sangria-graphql.github.io/) - A GraphQL Library for Scala
 
