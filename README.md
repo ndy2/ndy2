@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I like *cool architectures* with *scalability* in both code-level and architecture-level.
+- I like *cool architectures* with *scalability* in both **code-level** and **architecture-level**.
 - I also like to organize my knowledge with an easy to read & write form.
 
 ### My Current interest in ...  
