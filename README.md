@@ -3,15 +3,15 @@
 - I also like to organize my knowledge with an easy to read & write form.
 
 ### My Current interest in ...  
-- [Twitter Server](https://github.com/twitter/twitter-server) - Twitter Server
-- [MinIO](https://min.io/) - A High Performance, S3 compatible Object Storage.
 - [Kubernetes](https://kubernetes.io/) echo system - Container Orchestration
+- [Istio](https://istio.io/) - Service Mesh
 
 ### Open-source
 - Spring cloud config - [PR ~ Logging](https://github.com/spring-cloud/spring-cloud-config/pull/2162)
 - MkDocs Material - [Issue ~ Documentation](https://github.com/squidfunk/mkdocs-material/issues/5086)
 - Scalatest - [PR ~ Test util](https://github.com/scalatest/scalatest/pull/2305)
-- mkdocs-obsidian-support-plugin - [My own open-source. Surprisingly used by 10 people! 💥](https://github.com/ndy2/mkdocs-obsidian-support-plugin)
+- **mkdocs-obsidian-support-plugin** - [My own open-source. Surprisingly used by 22 people! 💥](https://github.com/ndy2/mkdocs-obsidian-support-plugin)
+- finatra-swagger - [Issue/PR ~ Bugfix](https://github.com/jakehschwartz/finatra-swagger/issues/82)
 
 ### ~~My Archive~~ -> move to private obsidian vault.
 - [Haha-Blog](https://ndy2.github.io/Haha-Blog/) ~~is~~ was my archive where I record my learning histories. I hope my writing skill gets better. T.T
