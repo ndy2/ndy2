@@ -26,11 +26,9 @@
 
 #### studying
 
-- ICA - 2025-XX-XX ~ 2 years
-  - [How I am studying](https://github.com/ndy2/Istio-Certified-Associate-excercises)
+- ICA - 2025-XX-XX ~ 2 years/ [How I am studying](https://github.com/ndy2/Istio-Certified-Associate-excercises)
 
-- CAPA - 2025-XX-XX ~ 2 years
-  - [How I am studying](https://github.com/ndy2/CAPA-Study)
+- CAPA - 2025-XX-XX ~ 2 years/ [How I am studying](https://github.com/ndy2/CAPA-Study)
 
 ### My GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ndy2)](https://git.io/streak-stats)
