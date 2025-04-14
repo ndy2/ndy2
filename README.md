@@ -23,10 +23,11 @@
 - CKAD - 2024-06-23 ~ 2 years
   - [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/bf016803-01ea-439c-af10-c821fdc34da9-538bdde0-e39f-4adf-a0ae-a0b96800a854-certificate.pdf)
   - [How I studied & study review](https://github.com/ndy2/CKAD-exercises)
+- ICA - 2025-04-13 ~ 2 years
+  - [View Certificate](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/bf016803-01ea-439c-af10-c821fdc34da9-781cd34a-4ac4-4fe1-8df1-0d5e8df2a2f3-certificate.pdf)
+  - [How I am studying](https://github.com/ndy2/Istio-Certified-Associate-excercises)
 
 #### studying
-
-- ICA - 2025-XX-XX ~ 2 years/ [How I am studying](https://github.com/ndy2/Istio-Certified-Associate-excercises)
 
 - CAPA - 2025-XX-XX ~ 2 years/ [How I am studying](https://github.com/ndy2/CAPA-Study)
 
