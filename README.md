@@ -26,6 +26,7 @@
 #### studying
 
 - CAPA - 2025-XX-XX ~ 2 years/ [How I am studying](https://github.com/ndy2/CAPA-Study)
+- CKA - 202X-XX-XX ~ 2 years
 
 ### My GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ndy2)](https://git.io/streak-stats)
